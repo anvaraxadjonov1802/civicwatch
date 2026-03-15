@@ -44,6 +44,7 @@ uchun qulay va tushunarli tarzda ishlab chiqilgan.
 ### LINK - GOOGLE DICK
 [Data source links](https://drive.google.com/drive/folders/1dUfTXxt3sNmH98g4FbbwvLK6NncNAVCn?usp=sharing)
 
+---
 ## Main Features
 
 ### User Features
